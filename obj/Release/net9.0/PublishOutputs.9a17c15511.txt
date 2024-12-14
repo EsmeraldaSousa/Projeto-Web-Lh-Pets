@@ -1,0 +1,13 @@
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\projeto_lh_pets.exe
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\appsettings.json
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\projeto_lh_pets.dll
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\projeto_lh_pets.deps.json
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\projeto_lh_pets.runtimeconfig.json
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\projeto_lh_pets.pdb
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\projeto_lh_pets\bin\Release\net9.0\publish\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
